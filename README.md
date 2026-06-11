@@ -1,11 +1,11 @@
 <div align="center">
 
-# Samir Thapa
+# Samir Jung Thapa
 
 ### Frontend Developer • Computing Student • Freelancer
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Experiences;React+Developer;Frontend+Developer;Always+Learning+Something+New" alt="Typing SVG" />
-
+<img align= "right" src="https://giphy.com/gifs/cristiano-ronaldo-r1IMdmkhUcpzy" width="320">
 <br/>
 
 <p>
