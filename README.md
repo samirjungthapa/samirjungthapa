@@ -7,7 +7,7 @@
 ---
 
 ## 👨‍💻 About Me
-- **Name:** Samir Jung Thapa  
+- **Name:** Samir Thapa  
 - **Location:** Nepal 🇳🇵  
 - **Education:** BSc (Hons) Computing  
 - **Role:** Frontend Developer  
@@ -66,7 +66,7 @@
 
 ## ⚽ Beyond Coding
 <div align="center">
-<img src="https://media.tenor.com/JM4JmA3iT6MAAAAC/cr7man-utd-ronaldo-cristiano-ronaldo-man-utd-ronaldo-cr7.gif" width="350"/>
+<img src="https://media.giphy.com/media/r1IMdmkhUcpzy/giphy.gif" width="350"/>
 <br/>
 <strong>Cristiano Ronaldo Fan</strong>  
 _"Your love makes me strong, your hate makes me unstoppable."_
