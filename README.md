@@ -7,7 +7,7 @@
 ---
 
 ## 👨‍💻 About Me
-- **Name:** Samir Thapa  
+- **Name:** Samir Jung Thapa  
 - **Location:** Nepal 🇳🇵  
 - **Education:** BSc (Hons) Computing  
 - **Role:** Frontend Developer  
