@@ -1,59 +1,70 @@
 <div align="center">
 
-# SAMIR JUNG THAPA
+# Samir Jung Thapa
 
-### Frontend Engineer
+### Frontend Developer • Computing Student • Freelancer
 
-Building scalable digital products, premium user interfaces, and modern web experiences.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+Premium+Digital+Experiences;Frontend+Developer;React+Developer;UI%2FUX+Enthusiast;Future+Full+Stack+Developer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Frontend+Engineering;Product+Development;Design+Systems;Performance+Optimization;Modern+Web+Experiences;Future+Full+Stack+Engineer" />
+<br>
+
+Building modern, scalable, and visually stunning web applications with a focus on performance, user experience, and clean design.
 
 </div>
 
 ---
 
-## Overview
+## 🚀 About Me
 
-I build modern web applications with a focus on user experience, performance, scalability, and design quality.
-
-My interests span frontend engineering, product development, interface architecture, and digital experiences that combine technical excellence with thoughtful design.
-
-Currently focused on deepening expertise in modern web technologies while building production-grade products and expanding into full-stack engineering.
+```javascript
+const samir = {
+    location: "Nepal 🇳🇵",
+    education: "BSc (Hons) Computing",
+    role: "Frontend Developer",
+    interests: [
+        "React Development",
+        "Modern UI/UX",
+        "Web Applications",
+        "Software Engineering"
+    ],
+    currentlyLearning: [
+        "Advanced React",
+        "Backend Development",
+        "System Design",
+        "Full Stack Architecture"
+    ],
+    goal: "Become a World-Class Full Stack Developer"
+};
+```
 
 ---
 
-## Current Focus
+## ⚡ Current Focus
 
-| Frontend Engineering | Product Development | Growth |
-|---------------------|-------------------|---------|
-| React Ecosystem | Design Systems | Full Stack Development |
-| Component Architecture | UI Engineering | Backend Systems |
-| Responsive Systems | User Experience | Performance Optimization |
-| Accessibility | Product Thinking | System Design |
+- 🚚 Building advanced logistics platforms
+- 🛒 Developing modern e-commerce experiences
+- 🎨 Creating premium UI/UX systems
+- ⚛️ Mastering the React ecosystem
+- 🌐 Expanding full-stack development skills
+- 🚀 Building production-ready applications
 
 ---
 
-## Technology Stack
+## 🛠 Tech Stack
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript" />
 </p>
 
-### Tools
+### Tools & Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
@@ -61,33 +72,64 @@ Currently focused on deepening expertise in modern web technologies while buildi
 
 ---
 
-## Selected Work
+# ✨ Featured Projects
 
-### 🚚 Courier Nepal
+## 🚚 Courier Nepal
 
-A next-generation logistics platform focused on shipment management, real-time tracking, operational dashboards, and premium user experience.
+Advanced logistics and shipment management platform designed with a premium user experience.
 
-### 🛒 ThapaMart
+### Highlights
 
-A premium e-commerce experience designed around usability, performance, and modern digital commerce principles.
-
-### 🌐 Developer Portfolio
-
-A highly immersive personal platform showcasing projects, engineering philosophy, and modern frontend capabilities.
-
-### 💪 Gym Management System
-
-Object-oriented Java application designed for membership, subscription, and management workflows.
+- Modern logistics dashboard
+- Real-time shipment tracking
+- Premium UI/UX
+- Advanced animations
+- Responsive architecture
 
 ---
 
-## Engineering Philosophy
+## 🛒 ThapaMart
 
-> Great software is built through clarity, craftsmanship, consistency, and continuous iteration.
+Modern e-commerce platform built with performance and user experience in mind.
+
+### Highlights
+
+- Product management
+- Shopping experience optimization
+- Premium interface
+- Responsive design
+- Scalable architecture
 
 ---
 
-## GitHub Insights
+## 🌐 Portfolio Website
+
+Personal developer portfolio featuring modern interactions and advanced animations.
+
+### Highlights
+
+- Premium UI design
+- Smooth animations
+- Personal branding
+- Responsive experience
+- Interactive components
+
+---
+
+## 💪 Gym Management System
+
+Object-oriented Java application for gym membership management.
+
+### Highlights
+
+- OOP concepts
+- Member management
+- Subscription handling
+- Desktop application architecture
+
+---
+
+## 📈 GitHub Analytics
 
 <div align="center">
 
@@ -97,7 +139,9 @@ Object-oriented Java application designed for membership, subscription, and mana
 
 </div>
 
-<br>
+---
+
+## 🔥 Contribution Streak
 
 <div align="center">
 
@@ -107,19 +151,40 @@ Object-oriented Java application designed for membership, subscription, and mana
 
 ---
 
-## Roadmap
+## 📊 Activity Graph
 
-- Courier Nepal V2
-- Advanced Portfolio Platform
-- Full Stack Engineering
-- Open Source Contributions
-- Scalable Web Applications
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samirjungthapa&theme=tokyo-night"/>
+
+</div>
 
 ---
 
-## Connect
+## 🎯 2026 Roadmap
 
-<p align="center">
+- [x] Build professional GitHub profile
+- [x] Create developer portfolio
+- [ ] Launch Courier Nepal V2
+- [ ] Launch advanced ThapaMart platform
+- [ ] Learn backend development
+- [ ] Become full-stack developer
+- [ ] Contribute to open source
+- [ ] Build SaaS products
+
+---
+
+## 🏆 Developer Mindset
+
+> "Great software is not just built.  
+> It is designed, engineered, refined, and continuously improved."
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
 <a href="mailto:Samirjungthapa7@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
@@ -127,14 +192,17 @@ Object-oriented Java application designed for membership, subscription, and mana
 <a href="https://github.com/samirjungthapa">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
-</p>
+
+</div>
 
 ---
 
 <div align="center">
 
-### Building Premium Digital Experiences From Nepal
+### Building Premium Digital Experiences From Nepal 🇳🇵
 
-Frontend Engineer • Product Builder • Lifelong Learner
+Frontend Developer • Computing Student • Freelancer
+
+⭐ Code • Build • Learn • Grow ⭐
 
 </div>
