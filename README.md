@@ -18,7 +18,7 @@ Building modern, scalable, and visually stunning web applications with a focus o
 
 ```javascript
 const samir = {
-    location: "SundarHaraicha-5 Nepal 🇳🇵",
+    location: "SundarHaraicha-5 Morang Nepal 🇳🇵",
     education: "BSc (Hons) Computing",
     role: "Frontend Developer",
     interests: [
