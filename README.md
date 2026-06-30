@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 # Samir Jung Thapa
@@ -8,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+Premium+Digital+Experiences;Frontend+Developer;React+Developer;UI%2FUX+Enthusiast;Future+Full+Stack+Developer" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samirjungthapa&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=samirjungthapa&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <br>
@@ -211,4 +210,4 @@ Frontend Developer • Computing Student • Freelancer
 ⭐ Code • Build • Learn • Grow ⭐
 
 </div>
-````
+also add here how much has visited my profile
