@@ -46,7 +46,7 @@
 
 I engineer **frontend systems**, not just interfaces. My work sits at the intersection of component architecture, interaction design, and performance discipline — built with the assumption that every project outlives its first release.
 
-I currently operate as an independent freelance developer while completing a BSc. (Hons) in Computing. That dual context matters: client work forces production-grade discipline, and formal study keeps the underlying fundamentals sharp.
+I currently operate as an independent freelancee developer while completing a BSc. (Hons) in Computing. That dual context matters: client work forces production-grade discipline, and formal study keeps the underlying fundamentals sharp.
 
 <table>
 <tr>
