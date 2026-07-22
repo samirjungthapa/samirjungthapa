@@ -42,7 +42,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/></p>
 
 <a name="profile"></a>
-## `01` · Profilee
+## `01` · Profile
 
 I engineer **frontend systems**, not just interfaces. My work sits at the intersection of component architecture, interaction design, and performance discipline — built with the assumption that every project outlives its first release.
 
